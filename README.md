@@ -4,11 +4,12 @@ After pulling the code, execute `yarn` in the root directory of the project. Aft
 # Based on
 - [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick)
 
-# Built-in
-* Cookie
-* Storage
+# Contains
+* [vue-class-component](https://class-component.vuejs.org/)
 * [vue-router](https://next.router.vuejs.org/)
 * [vuex](https://next.vuex.vuejs.org/)
+* [eslint](https://eslint.org/)
+* [prettier](https://prettier.io/)
 
 # How to use vue3
 
